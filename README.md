@@ -1,4 +1,4 @@
-# # 🚀 Scripts de Automação em Bash para Linux  
+# 🚀 Scripts de Automação em Bash para Linux  
 
 Este repositório contém scripts de automação em **Bash** para facilitar a administração de usuários em múltiplos servidores Linux.
 
